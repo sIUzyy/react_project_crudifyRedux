@@ -8,6 +8,14 @@ To obtain the code, simply follow these steps as outlined. <br>
 visit the website for reference:
 https://crudifyyy.web.app/
 
+..Tech stack: <br>
+<ul>
+  <li>REACTJS</li> 
+  <li>REDUX</li>
+  <li>FIREBASE</li>
+</ul>
+
+
 
 
 
